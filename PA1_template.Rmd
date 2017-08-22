@@ -1,18 +1,15 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
+title: "PA1_template"
+author: "Bogdan Blaga"
+date: "August 22, 2017"
+output: html_document
 ---
-
-
 
 ## Loading and preprocessing the data
 
 
 ```{r}
 # set the file url 
-
 
 fileurl <- "https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip"
 
